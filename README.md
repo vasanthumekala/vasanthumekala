@@ -22,7 +22,7 @@ I am eager to learn, improve my technical skills, and contribute to real-world p
 
 ## 🛠 Technical Skills
 - **Programming Languages:** Python, JavaScript  
-- **Web Technologies:** HTML, CSS, ReactJS  
+- **Web Technologies:** HTML5, CSS3, ReactJS  
 - **Database:** SQL  
 - **Tools & Platforms:** Git, GitHub, VS Code  
 

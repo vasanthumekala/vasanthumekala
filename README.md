@@ -13,6 +13,7 @@ I am eager to learn, improve my technical skills, and contribute to real-world p
 ## 🔗 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasanthumekala)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vasanthu-mekala)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mekalavasanthu)
 
 ---
 
@@ -35,16 +36,7 @@ I am eager to learn, improve my technical skills, and contribute to real-world p
 - Advanced ReactJS concepts  
 - Backend integration and APIs  
 - Problem-solving using Python  
-
----
-
-## 📊 GitHub Statistics
-![Vasanthu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasanthumekala&show_icons=true&theme=dark)
-
 ---
 
 ## 🎯 Career Objective
 To secure an entry-level software developer role where I can apply my technical knowledge, learn from experienced professionals, and grow as a software engineer.
-## 📊 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=vasanthumekala&show_icons=true&theme=dark" />
-

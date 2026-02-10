@@ -2,6 +2,9 @@
 <h3 align="center">MCA Fresher | Aspiring Software Developer</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Python+%7C+JavaScript+%7C+SQL;Aspiring+Software+Engineer" />
+</p>
 
 ## 👨‍💻 Professional Summary
 I am an MCA fresher with a strong interest in software and web development.  

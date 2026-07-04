@@ -51,7 +51,13 @@ A full-stack web application that simplifies vehicle service booking and managem
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • REST APIs
 
 ---
+## 🌱 Currently Learning
 
+- ⚡ Next.js for modern React applications
+- 🔷 TypeScript for scalable and type-safe development
+- 🏗️ System Design fundamentals
+- 📦 Advanced React patterns & performance optimization
+- 🧩 Data Structures & Algorithms
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vasanthumekala&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>

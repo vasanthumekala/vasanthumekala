@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Python+%7C+JavaScript+%7C+SQL;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Python+%7C+JavaScript/TypeScrpt+%7C+SQL;Aspiring+Software+Engineer" />
 </p>
 
 ## 👨‍💻 Professional Summary
@@ -21,9 +21,9 @@ I am eager to learn, improve my technical skills, and contribute to real-world p
 ---
 
 ## 🛠 Technical Skills
-- **Programming Languages:** Python, JavaScript  
+- **Programming Languages:** Python, JavaScript,TypeScript 
 - **Web Technologies:** HTML5, CSS3, ReactJS, NextJS*
-- **Database:** SQL  
+- **Database:** SQL,Mongo DB  
 - **Tools & Platforms:** Git, GitHub, VS Code  
 
 ---

@@ -1,38 +1,49 @@
 <h1 align="center">Hi 👋, I'm Vasanthu Mekala</h1>
 
-<h3 align="center">MERN Stack Developer | React.js Developer | MCA Graduate 🚀</h3>
+<h3 align="center">
+MERN Stack Developer | React.js Developer | MCA Graduate | Open to Work 🚀
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+Developer;Frontend+Enthusiast;Open+to+Work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+Developer;Frontend+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate
-- 💻 MERN Stack Developer passionate about building responsive web applications.
-- 🌱 Currently learning **Next.js** & **TypeScript**
-- 🚀 Looking for **Frontend / Full Stack Developer** opportunities.
+- 🎓 MCA Graduate with a strong interest in Web Development.
+- 💻 Passionate about building responsive and user-friendly web applications.
+- 🚀 Skilled in the MERN Stack with hands-on experience in real-world projects.
+- 🌱 Currently learning **Next.js**, **TypeScript**, and advanced React concepts.
+- 🎯 Looking for **Frontend** or **Full Stack Developer** opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode&perline=7"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 💼 Featured Project
 
 ### 🚗 Vehicle Service Management System
 
-✔ JWT Authentication  
-✔ RBAC  
-✔ Online Service Booking  
-✔ React • Node.js • Express • MongoDB
+A full-stack web application that simplifies vehicle service booking and management.
+
+**Key Features**
+
+- 🔐 JWT Authentication
+- 👥 Role-Based Access Control (RBAC)
+- 📅 Online Service Booking
+- 🚗 Vehicle Management
+- 📊 Customer & Owner Dashboards
+- 📱 Fully Responsive UI
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • REST APIs
 
 ---
 
@@ -45,6 +56,23 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthumekala&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthumekala&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Highlights
+
+- ✅ MERN Stack Developer
+- ✅ React.js Developer
+- ✅ Frontend Development Intern
+- ✅ REST API Integration
+- ✅ JWT Authentication & RBAC
+- ✅ Responsive Web Design
 
 ---
 
@@ -64,12 +92,18 @@
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
+<a href="https://github.com/vasanthumekala">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vasanthumekala&label=Profile%20Views&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=vasanthumekala&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
+---
+
 <p align="center">
-⭐ <b>"Code • Learn • Build • Repeat"</b> ⭐
+💡 <b>"Turning ideas into impactful web applications through clean and efficient code."</b>
 </p>

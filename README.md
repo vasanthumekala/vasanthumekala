@@ -53,6 +53,17 @@ A full-stack web application that simplifies vehicle service booking and managem
 ---
 ## 🌱 Currently Learning
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-5C2D91?style=for-the-badge"/>
+
+</p>
+## 🌱 Currently Learning
+
 - ⚡ Next.js for modern React applications
 - 🔷 TypeScript for scalable and type-safe development
 - 🏗️ System Design fundamentals

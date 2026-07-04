@@ -52,57 +52,6 @@ A full-stack web application that simplifies vehicle service booking and managem
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vasanthumekala&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthumekala&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthumekala&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 Highlights
-
-- ✅ MERN Stack Developer
-- ✅ React.js Developer
-- ✅ Frontend Development Intern
-- ✅ REST API Integration
-- ✅ JWT Authentication & RBAC
-- ✅ Responsive Web Design
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://github.com/vasanthumekala">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vasanthumekala&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>

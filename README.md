@@ -112,3 +112,17 @@ A full-stack web application that simplifies vehicle service booking and managem
 <p align="center">
 💡 <b>"Turning ideas into impactful web applications through clean and efficient code."</b>
 </p>
+---
+## 🚀 What I Work With
+
+⚛️ **React.js** — Building responsive and reusable user interfaces.
+
+🟩 **Node.js** — Developing scalable backend applications and REST APIs.
+
+🍃 **MongoDB** — Designing efficient NoSQL databases.
+
+🟨 **JavaScript** — Writing clean ES6+ code for dynamic web applications.
+
+🔷 **TypeScript** — Learning type-safe application development.
+
+⚡ **Next.js** — Exploring server-side rendering and performance optimization.

@@ -57,11 +57,9 @@ A full-stack web application that simplifies vehicle service booking and managem
 </p>
 
 ---
-
 <p align="center">
 💡 <b>"Turning ideas into impactful web applications through clean and efficient code."</b>
 </p>
----
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:3A7BD5&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Let's%20build%20something%20awesome%20together%20🚀&descAlignY=78&descAlign=50"/>
 </p>

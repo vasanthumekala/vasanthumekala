@@ -23,7 +23,7 @@ MERN Stack Developer | React.js Developer | MCA Graduate | Open to Work 🚀
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode,postman,devto&perline=7"/>
 </p>
 
 ---

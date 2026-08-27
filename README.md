@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasanthu Mekala</h1>
 
 <h3 align="center">
-MERN Stack Developer | React.js Developer | MCA Graduate | Open to Work 🚀
+MERN Stack Developer | React.js Developer
 </h3>
 
 <p align="center">

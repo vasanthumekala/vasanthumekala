@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasanthu Mekala</h1>
 
 <h3 align="center">
-Full Stack Developer | React.js Developer
+Full Stack Developer | React.js and Node Js Developer
 </h3>
 
 <p align="center">
